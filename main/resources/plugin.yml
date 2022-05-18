@@ -1,0 +1,4 @@
+name: MyTemplate
+version: '${project.version}'
+main: template.mytemplate.MyTemplate
+api-version: 1.18
